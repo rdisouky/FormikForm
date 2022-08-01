@@ -1,6 +1,9 @@
 # FormikForm
 Course Assignment: Javascript code for a form that allows for users to submit and email and password but also outlines errors if an invalid email was inputed or if the incorrect password was entered. 
 
+<img width="696" alt="formik" src="https://user-images.githubusercontent.com/102531594/182184515-d3af5cab-6d09-43c1-80c6-5783b06e337c.png">
+
+
 License information: MIT License
 
 Copyright (c) 2022 Rawan Disouky
